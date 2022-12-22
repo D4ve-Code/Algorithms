@@ -1,3 +1,3 @@
 # Algorithms
-
-My Goal ? One algorithm for One Day
+Keep learning
+From Monday to Friday --> One algorithm for One Day
