@@ -45,6 +45,3 @@ console.log(babySharkLyrics());
 
 console.log("-------------------------------------------------");
 console.log("end");
-
-// result = ((l1 + ', ' + l7.repeat(6)+ " " + "\n").repeat(3))+ (l1 + '!')
-// return result
