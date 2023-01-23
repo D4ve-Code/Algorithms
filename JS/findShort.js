@@ -27,6 +27,5 @@ const findShort = (sentence) => {
 }
 console.log(findShort("Prachett is the best author in the world")); 
 
-
 console.log("-------------------------------------------------");
 console.log("end");
