@@ -6,9 +6,15 @@
 console.log("start");
 console.log("-------------------------------------------------");
 
+// const removeSmallest = (numbers) => {
+//     const array1 = numbers.filter((elem) => elem!= Math.min(...numbers));
+//     return array1
+//     }
+
+
 const removeSmallest = (numbers) => {
-    const array1 = numbers.filter((elem) => elem!= Math.min(...numbers));
-    return array1
+    numbers.splice(numbers.indexOf(Math.min(...numbers)),1);
+    return numbers;
     }
     console.log(removeSmallest([5,3,2,1,4]));
 
